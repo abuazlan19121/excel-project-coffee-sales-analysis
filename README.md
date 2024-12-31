@@ -10,6 +10,8 @@ To build an interactive and user-friendly Excel dashboard for analyzing coffee s
 - **XLOOKUP** and **INDEX MATCH**: Merged sales data with customer and product details.
 ![image](https://github.com/user-attachments/assets/a1bdc5a0-1cb8-4fa6-a736-ceb7d5b52da6)
 
+![image](https://github.com/user-attachments/assets/6a5e191a-4c6d-4aea-88e7-a0bec7695352)
+
 - **Date Formatting**: Standardized dates for consistent time-based analysis.
 ![image](https://github.com/user-attachments/assets/ebd669d7-301b-4ffb-a62d-daef9897fa1d)
 
